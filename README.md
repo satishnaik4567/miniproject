@@ -1,4 +1,4 @@
-Project Title: TalentConnect
+Project Title: TalentThrive 
 
 Description:
 TalentConnect is a comprehensive website platform designed to bridge the gap between unskilled individuals, artists, and potential employers. The platform facilitates connections for job opportunities, contract work, and collaborative projects, empowering users to showcase their skills, talents, and previous work experiences.
